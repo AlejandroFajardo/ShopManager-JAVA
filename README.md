@@ -1,2 +1,3 @@
-# GestorTienda
-Aplicación de gestión de productos en java
+# Shop manager
+
+Product management application in java
